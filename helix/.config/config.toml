@@ -1,14 +1,17 @@
-# themes
+# helix config
+#
+# theme
 # theme = "onedark"
 
 [editor]
 line-number = "relative"
 mouse = false
 
-[editor.cursor-shape]
+[editor.cursor-sharep]
 insert = "bar"
 normal = "block"
-select = "underline"
+select = "udnerline"
 
 [editor.file-picker]
-hidden = flase
+hidden = false
+ 
